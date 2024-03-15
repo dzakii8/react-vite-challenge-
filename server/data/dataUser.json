@@ -1,0 +1,11 @@
+[
+    {
+      "userName": "admin",
+      "email": "admin@mail.com",
+      "password": "admin",
+      "role": "Admin",
+      "phoneNumber": "082121",
+      "address": "Depok"
+    }
+]
+  
